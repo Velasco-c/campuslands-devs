@@ -38,4 +38,4 @@ return pj.ataque < pj.defensa ? "Entrenar Ataque" : "Entrenar Defensa";
 
 **Hecho por:**
 
-* *Carlos Velasco*
+* *Carlos Elias Tzoy Velasco*
