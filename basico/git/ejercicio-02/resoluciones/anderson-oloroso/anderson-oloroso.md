@@ -33,12 +33,10 @@ git branch -a
   remotes/origin/HEAD -> origin/main
   remotes/origin/main
 ```
-- `git status`
-``` text
-git status
-On branch anderson-oloroso/estructura-ejercicio-02
-Your branch is up to date with 'origin/anderson-oloroso/estructura-ejercicio-02'.
 
-nothing to commit, working tree clean
+``` text
 ```
- _Segui el paso a paso para resolver los problemas_
+``` text
+```
+``` text
+```
